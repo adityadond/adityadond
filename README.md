@@ -13,6 +13,7 @@ Apart from my professional journey, I am a learner📝 and enthusiastic to learn
 
 LinkedIn - https://www.linkedin.com/in/aditya-dond-aaba38160/<br/> 
 GitHub - https://github.com/adityadond </br>
+Twitter- https://twitter.com/aditya_dond </br>
 Portfolio - For portfolio connect with me.  <br/>
 
 --------
