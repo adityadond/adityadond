@@ -4,7 +4,7 @@ Have exposure♛ to building professional websites🖥 and front-end application
 
 Apart from my professional journey, I am a learner📝 and enthusiastic to learn new tech. I have created 10+ mini & major projects💼 on Reactjs and other technologies. 
 
-Currently I'm learn backend technologies like Express Js, MongoDB.
+Currently I'm learning backend technologies like Express Js, MongoDB.
 
 
 🙋‍♂️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
