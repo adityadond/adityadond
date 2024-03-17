@@ -13,20 +13,4 @@ GitHub - [adityadond](https://github.com/adityadond)<br/>
 Twitter - [aditya_dond](https://twitter.com/aditya_dond)<br/>
 Portfolio - For portfolio connect with me.
 
-<style>
-  @keyframes bounce {
-    0% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-    100% {
-      transform: translateY(0);
-    }
-  }
 
-  .name {
-    animation: bounce 1s infinite;
-  }
-</style>
