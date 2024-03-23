@@ -11,8 +11,4 @@
   </a>
 </p>
 <p align="center">Have exposure ♛ to building professional websites 🖥 and front-end applications 💻. Experienced with a demonstrated history of working in the information technology and services industries 🏢. Skilled in FrontEnd Technologies ✍️ such as React.js, Redux, EcmaScript, JavaScript, TypeScript, NextJs, HTML, CSS, Bootstrap, Flexbox, and GitHub. Apart from my professional journey, I am a learner 📝 and enthusiastic to learn new tech. I have created 10+ mini & major projects 💼 on React.js and other technologies. Currently, I'm learning backend technologies like Express Js and MongoDB.</p>
-Connect with Me:
-LinkedIn: Aditya Dond
-GitHub: adityadond
-Twitter: aditya_dond
 Portfolio: For portfolio, connect with me.
